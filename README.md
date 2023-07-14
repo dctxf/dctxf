@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+小小菜鸡一枚！
+
+个人主页：[https://dctxf.com](https://www.dctxf.com/)
+
 <!--
 **dctxf/dctxf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
